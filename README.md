@@ -9,8 +9,7 @@ SciFiLi is a library management program designed to efficiently store, search, c
 3. **Check In/Out Books:** Enables librarians to check books in and out.
 4. **Process Book Returns:** Simulates book returns where returned books are placed in a queue.
 5. **Sort and Save Data:** At the end of the session, all books are sorted alphabetically by title and saved back to a file with their status.
-6. **Emergency Book Rescue:** In case of a library fire, prioritizes and lists books that need to be rescued based on importance.
-7. **User Interface:** A simple text-based or GUI menu allows the user to interact with the system.
+6. **User Interface:** A simple text-based or GUI menu allows the user to interact with the system.
 
 ## Data Structures Used
 1. **List:** Used for initial storage of book data because it is easy to iterate over and manipulate before structuring into a tree.
